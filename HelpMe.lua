@@ -1,1 +1,4 @@
-print("Hello World!")
+local g ={
+  "Hello"
+}
+return g
